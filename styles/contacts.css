@@ -1,0 +1,44 @@
+.contacts__container {
+    position: relative;
+    height: 717px;
+    border-radius: 30px;
+    background: #191c19;
+
+}
+
+.contacts__image {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-radius: 30px;
+}
+
+.contacts_text-wrapper {
+    position: absolute;
+    left: 125px;
+    top: 320px;
+}
+
+.contacts__text {
+    margin-bottom: 28px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+}
+
+.contacts__link {
+    display: block;
+    margin-bottom: 20px;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-decoration: none;
+    color: #fff;
+}
+
+.contacts__link:hover {
+    text-decoration: underline;
+    color: #1bff07;
+}

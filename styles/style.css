@@ -1,0 +1,34 @@
+@import url(../styles/head.css);
+@import url(../styles/welcome.css);
+@import url(../styles/projects.css);
+@import url(../styles/competencies.css);
+@import url(../styles/services.css);
+@import url(../styles/contacts.css);
+@import url(../styles/footer.css);
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0 auto;
+    width: 100%;
+    font-family: 'IBM Plex Mono';
+    background-color: black;
+
+}
+
+.container {
+    margin: 0 auto;
+    width: 1400px;
+    padding: 0 125px;
+    color: white;
+}
+
+section {
+    margin-bottom: 150px;
+}
+
+section:nth-child(7) {
+    margin-bottom: 0;
+}

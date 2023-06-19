@@ -1,0 +1,41 @@
+.competencies__header {
+    margin-bottom: 48px;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+}
+
+.competencies__list-header {
+    margin-bottom: 15px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    letter-spacing: -0.03em;
+
+    color: #1BFF07;
+}
+
+.competencies__last-header {
+    width: 651px;
+}
+
+.competencies__list-text {
+    margin-bottom: 60px;
+    width: 778px;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 29px;
+    letter-spacing: -0.03em;
+}
+
+.competencies__list-header:before {
+    content: '';
+    margin-bottom: 12px;
+    display: block;
+    width: 45px;
+    height: 44px;
+    background-image: url(../resources/competencies/box.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}

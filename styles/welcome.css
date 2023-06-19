@@ -1,0 +1,42 @@
+.container__welcome {
+    background-image: url(../resources/head/background-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    max-width: 1400px;
+    height: 765px;
+}
+
+
+
+.welcome__list-text {
+    margin-bottom: 29px;
+    height: 103px;
+}
+
+.welcome__text-header {
+    position: absolute;
+    top: 466px;
+    width: 919px;
+    height: 205px;
+    font-weight: 400;
+    font-size: 80px;
+    line-height: 70px;
+
+    letter-spacing: -0.03em;
+
+    color: #1BFF07;
+}
+
+.welcome__text-info {
+    position: absolute;
+    top: 334px;
+    width: 430px;
+    height: 103px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 26px;
+    letter-spacing: -0.03em;
+    color: #fff;
+}
+

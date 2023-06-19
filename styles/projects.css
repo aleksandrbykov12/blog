@@ -1,0 +1,86 @@
+.projects {
+    color: white;
+}
+
+.projects__wrapper {
+    padding-bottom: 80px;
+}
+
+.projects__header {
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+}
+
+.projects__list-realhome {
+    position: relative;
+    background-image: url(../resources/projects/realhome.png);
+    background-size: cover;
+    background-position: 50%;
+    width: 1150px;
+    height: 550px;
+
+}
+
+.projects__text-header {
+    position: absolute;
+    left: 50px;
+    bottom: 94px;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 46px;
+    letter-spacing: -0.03em;
+}
+
+.projects__text-p {
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+    letter-spacing: -0.03em;
+}
+
+.projects__list-glass {
+    position: relative;
+    background-image: url(../resources/projects/glass.png);
+    background-size: cover;
+    background-position: 50%;
+    width: 1150px;
+    height: 550px;
+}
+
+.projects__list-fesiyen {
+    position: relative;
+    background-image: url(../resources/projects/fesiyen.png);
+    background-size: cover;
+    background-position: 50%;
+    width: 1150px;
+    height: 550px;
+}
+
+.projects__link {
+    display: block;
+    padding: 56px 85px 58px 86px;
+    width: 582px;
+    height: 153px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: -0.03em;
+
+    background-color: #1bff07;
+    color: #000;
+}
+
+.projects__link:hover {
+    border: 1px solid #1bff07;
+    background-color: #000;
+    color: #1bff07;
+}
