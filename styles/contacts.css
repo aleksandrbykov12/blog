@@ -39,6 +39,5 @@
 }
 
 .contacts__link:hover {
-    text-decoration: underline;
     color: #1bff07;
 }

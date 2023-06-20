@@ -37,9 +37,13 @@
 .services__list-text {
     padding-top: 15px;
     padding-left: 40px;
-    width: 749px;
+    width: 760px;
     font-weight: 400;
     font-size: 22px;
     line-height: 29px;
     letter-spacing: -0.03em;
+}
+
+.services__list:last-child {
+    margin-top: 137px;
 }

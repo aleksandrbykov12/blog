@@ -1,3 +1,7 @@
+.welcome {
+    margin-top: -73px;
+}
+
 .container__welcome {
     background-image: url(../resources/head/background-img.png);
     background-repeat: no-repeat;
@@ -7,10 +11,8 @@
     height: 765px;
 }
 
-
-
 .welcome__list-text {
-    margin-bottom: 29px;
+    padding-bottom: 29px;
     height: 103px;
 }
 

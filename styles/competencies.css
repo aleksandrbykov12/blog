@@ -16,7 +16,7 @@
     color: #1BFF07;
 }
 
-.competencies__last-header {
+.competencies__box-phone {
     width: 651px;
 }
 
@@ -36,6 +36,50 @@
     width: 45px;
     height: 44px;
     background-image: url(../resources/competencies/box.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.competencies__box-html:before {
+    content: '';
+    margin-bottom: 12px;
+    display: block;
+    width: 45px;
+    height: 44px;
+    background-image: url(../resources/competencies/box-html.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.competencies__box-js:before {
+    content: '';
+    margin-bottom: 16px;
+    display: block;
+    width: 45px;
+    height: 44px;
+    background-image: url(../resources/competencies/box-js.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.competencies__box-react:before {
+    content: '';
+    margin-bottom: 16px;
+    display: block;
+    width: 45px;
+    height: 44px;
+    background-image: url(../resources/competencies/box-react.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.competencies__box-phone:before {
+    content: '';
+    margin-bottom: 16px;
+    display: block;
+    width: 45px;
+    height: 44px;
+    background-image: url(../resources/competencies/box-phone.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
