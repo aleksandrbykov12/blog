@@ -24,7 +24,6 @@
     font-weight: 400;
     font-size: 35px;
     line-height: 60px;
-    letter-spacing: -0.03em;
 }
 
 .contacts__link {
@@ -33,7 +32,6 @@
     font-weight: 400;
     font-size: 60px;
     line-height: 60px;
-    letter-spacing: -0.03em;
     text-decoration: none;
     color: #fff;
 }

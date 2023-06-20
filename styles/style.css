@@ -32,3 +32,7 @@ section {
 .footer {
     margin-bottom: 0;
 }
+
+p, h1, h2, h3, h4, a {
+    letter-spacing: -0.03em;
+}

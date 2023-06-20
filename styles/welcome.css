@@ -17,28 +17,25 @@
 }
 
 .welcome__text-header {
-    position: absolute;
-    top: 466px;
+    margin-top: 29px;
     width: 919px;
     height: 205px;
     font-weight: 400;
     font-size: 80px;
     line-height: 70px;
-
-    letter-spacing: -0.03em;
-
     color: #1BFF07;
 }
 
 .welcome__text-info {
-    position: absolute;
-    top: 334px;
     width: 430px;
     height: 103px;
     font-weight: 400;
     font-size: 20px;
     line-height: 26px;
-    letter-spacing: -0.03em;
     color: #fff;
 }
 
+.welcome__list {
+    position: absolute;
+    top: 334px;
+}

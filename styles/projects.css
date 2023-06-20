@@ -11,7 +11,6 @@
     font-weight: 400;
     font-size: 55px;
     line-height: 72px;
-    letter-spacing: -0.03em;
 }
 
 .projects__list-realhome {
@@ -31,7 +30,6 @@
     font-weight: 400;
     font-size: 35px;
     line-height: 46px;
-    letter-spacing: -0.03em;
 }
 
 .projects__text-p {
@@ -41,7 +39,6 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 39px;
-    letter-spacing: -0.03em;
 }
 
 .projects__list-glass {
@@ -73,8 +70,6 @@
     font-size: 30px;
     line-height: 39px;
     text-align: center;
-    letter-spacing: -0.03em;
-
     background-color: #1bff07;
     color: #000;
 }
