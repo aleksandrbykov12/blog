@@ -3,7 +3,7 @@
 }
 
 .container__welcome {
-    background-image: url(../resources/head/background-img.png);
+    background-image: url(../resources/head/programmer-three.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -18,7 +18,7 @@
 
 .welcome__text-header {
     margin-top: 29px;
-    width: 919px;
+    width: 960px;
     height: 205px;
     font-weight: 400;
     font-size: 80px;

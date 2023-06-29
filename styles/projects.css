@@ -13,9 +13,9 @@
     line-height: 72px;
 }
 
-.projects__list-realhome {
+.projects__list-metrika {
     position: relative;
-    background-image: url(../resources/projects/realhome.png);
+    background-image: url(../resources/projects/metrika.png);
     background-size: cover;
     background-position: 50%;
     width: 1150px;
@@ -23,13 +23,19 @@
 
 }
 
-.projects__text-header {
+.projects__text-header, .projects__text-header-link {
     position: absolute;
     left: 50px;
     bottom: 94px;
+    text-decoration: none;
     font-weight: 400;
     font-size: 35px;
     line-height: 46px;
+    color: white;
+}
+
+.projects__text-header-link:hover {
+    color: #1bff07;
 }
 
 .projects__text-p {

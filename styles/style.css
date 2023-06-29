@@ -18,6 +18,10 @@ body {
 
 }
 
+a {
+    transition: 0.5s;
+}
+
 .container {
     margin: 0 auto;
     width: 1400px;
