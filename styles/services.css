@@ -15,8 +15,7 @@
 }
 
 .services__list-title {
-    padding-top: 40px;
-    padding-left: 40px;
+    padding: 40px 0 0 40px;
     font-weight: 400;
     font-size: 55px;
     line-height: 72px;
@@ -24,14 +23,9 @@
 }
 
 .services__list-text {
-    padding-top: 15px;
-    padding-left: 40px;
+    padding: 15px 0 0 40px;
     width: 760px;
     font-weight: 400;
     font-size: 22px;
     line-height: 29px;
 }
-
-/* .services__list:last-child {
-    margin-top: 137px;
-} */

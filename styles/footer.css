@@ -1,16 +1,15 @@
-.footer__container {
-    position: relative;
+.footer {
     height: 289px;
     border-radius: 30px;
     background: #fff;
     font-family: 'Manrope', sans-serif;
 }
 
+
 .footer__text-wrapper {
-    position: absolute;
+    position: relative;
     color: #000000;
     top: 76px;
-    left: 125px;
 }
 
 .footer__title {
@@ -22,7 +21,6 @@
 }
 
 .footer__text {
-    position: absolute;
     font-weight: 400;
     font-size: 20px;
     line-height: 27px;

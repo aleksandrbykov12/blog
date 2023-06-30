@@ -1,22 +1,15 @@
-.projects {
-    color: white;
-}
-
 .projects__wrapper {
     padding-bottom: 80px;
 }
 
 .projects__list-metrika {
     position: relative;
-    background-image: url(../resources/projects/metrika.png);
-    background-size: cover;
-    background-position: 50%;
     width: 1150px;
     height: 550px;
 
 }
 
-.projects__text-title, .projects__text-title-link {
+.projects__text-title {
     position: absolute;
     left: 50px;
     bottom: 94px;
@@ -27,8 +20,8 @@
     color: white;
 }
 
-.projects__text-title-link:hover {
-    color: #1bff07;
+.projects__link:hover {
+    opacity: 0.5;
 }
 
 .projects__text-p {
@@ -58,7 +51,7 @@
     height: 550px;
 }
 
-.projects__link {
+.projects__btn {
     display: block;
     padding: 56px 85px 58px 86px;
     width: 582px;
@@ -73,7 +66,7 @@
     color: #000;
 }
 
-.projects__link:hover {
+.projects__btn:hover {
     border: 1px solid #1bff07;
     background-color: #000;
     color: #1bff07;

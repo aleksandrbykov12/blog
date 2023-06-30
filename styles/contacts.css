@@ -1,22 +1,21 @@
-.contacts__container {
-    position: relative;
-    height: 717px;
+.contacts {
     border-radius: 30px;
     background: #191c19;
-
 }
 
-.contacts__image {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    border-radius: 30px;
+.contacts__container {
+    margin: 0 auto;
+    width: 1400px;
+    display: flex;
+    justify-content: space-between;
 }
 
-.contacts_text-wrapper {
-    position: absolute;
-    left: 125px;
-    top: 320px;
+.contacts__text-wrapper {
+    margin-bottom: 71px;
+    margin-left: 125px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 .contacts__text {
@@ -38,4 +37,8 @@
 
 .contacts__link:hover {
     color: #1bff07;
+}
+
+.contacts__image {
+    border-radius: 30px;
 }

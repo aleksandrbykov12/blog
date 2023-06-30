@@ -15,6 +15,7 @@ body {
     width: 100%;
     font-family: 'IBM Plex Mono';
     background-color: black;
+    color: white;
 
 }
 
@@ -26,10 +27,13 @@ a {
     margin: 0 auto;
     width: 1400px;
     padding: 0 125px;
-    color: white;
 }
 
 section {
+    margin-bottom: 150px;
+}
+
+header {
     margin-bottom: 150px;
 }
 
