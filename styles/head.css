@@ -24,7 +24,6 @@
 .head__container {
     margin-top: 33px;
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
 }
 
@@ -60,7 +59,6 @@
 .head__list {
     position: relative;
     display: flex;
-    flex-direction: row;
     gap: 51px;
 }
 
