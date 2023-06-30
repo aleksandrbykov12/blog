@@ -29,15 +29,6 @@ a {
     color: white;
 }
 
-/* .container__welcome {
-    background-image: url(../resources/head/programmer-three.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: 50%;
-    width: 100%;
-    height: 765px;
-} */
-
 section {
     margin-bottom: 150px;
 }
@@ -48,4 +39,22 @@ section {
 
 * {
     letter-spacing: -0.03em;
+}
+
+.title {
+    margin-bottom: 40px;
+    font-weight: 400;
+    font-size: 55px;
+    line-height: 72px;
+}
+
+.competencies__title {
+    margin-bottom: 48px;
+}
+
+.services__title {
+    margin-bottom: 74px;
+    width: 403px;
+    font-size: 35px;
+    line-height: 46px;
 }

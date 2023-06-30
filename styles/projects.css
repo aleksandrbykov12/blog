@@ -6,13 +6,6 @@
     padding-bottom: 80px;
 }
 
-.projects__title {
-    margin-bottom: 40px;
-    font-weight: 400;
-    font-size: 55px;
-    line-height: 72px;
-}
-
 .projects__list-metrika {
     position: relative;
     background-image: url(../resources/projects/metrika.png);
