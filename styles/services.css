@@ -1,4 +1,4 @@
-.services__header {
+.services__title {
     margin-bottom: 74px;
     width: 403px;
     font-weight: 400;
@@ -22,7 +22,7 @@
     border-radius: 30px;
 }
 
-.services__list-header {
+.services__list-title {
     padding-top: 40px;
     padding-left: 40px;
     font-weight: 400;
@@ -40,6 +40,6 @@
     line-height: 29px;
 }
 
-.services__list:last-child {
+/* .services__list:last-child {
     margin-top: 137px;
-}
+} */

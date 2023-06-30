@@ -6,7 +6,7 @@
     padding-bottom: 80px;
 }
 
-.projects__header {
+.projects__title {
     margin-bottom: 40px;
     font-weight: 400;
     font-size: 55px;
@@ -23,7 +23,7 @@
 
 }
 
-.projects__text-header, .projects__text-header-link {
+.projects__text-title, .projects__text-title-link {
     position: absolute;
     left: 50px;
     bottom: 94px;
@@ -34,7 +34,7 @@
     color: white;
 }
 
-.projects__text-header-link:hover {
+.projects__text-title-link:hover {
     color: #1bff07;
 }
 
